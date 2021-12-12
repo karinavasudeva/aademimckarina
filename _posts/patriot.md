@@ -1,115 +1,36 @@
-
+title: 'An Unconventional Patriot '
+date: 2021-12-12
+permalink: /posts/2021/12/
 
 
 An Unconventional Patriot
+=====
 
-For the entirety of my childhood, I have considered myself a die-hard patriot. I stood up
-for the pledge of allegiance every morning, and recited every word in it with unwavering and
-iron-clad conviction. I begged to raise the flag at school every morning, despite the physical
-challenge posed by my short stature. I knew I wanted to serve my country because service, to
-me, is the supreme act of duty. This philosophy that I embraced in my life is probably due to my
-Sikh faith – a religion that emphasizes serving others and treating everyone equally. Sikhism
-embodies all the values that make me a patriot, but paradoxically, my identification with the
-religion has also made me question the very underpinnings of patriotism. After 9/11, a time of
-surging nationalism, many exploited faux patriotism to justify hate crimes against innocent
-immigrants, including Sikh Americans who they erroneously believed were Muslim terrorists.
-Ironically, it was during this time when, according to polls, people “felt most proud of their
-country” (Griggs) that I began to negatively perceive the world around me. As I grew older, I
-saw a close family friend, who was labeled a terrorist for simply wearing a turban, land in
-hospital from injuries sustained in a “patriotic” attack. I saw a headline on CNN about a shooter
-targeting people of my faith – people he deemed as dangerous – in our place of worship. It
-became increasingly difficult to feel an unwavering love for my country when my country did
-not return my love. Sadly, this bitter experience of unrequited love resulted from a warped
-interpretation of patriotism by some. An interpretation, that in the past decade or so, has been
-twisted and abused to justify hate and spread fear. However, anyone who truly loves this great
-nation should not allow patriotism to be defined by this perverted understanding. Patriotism is
-devotion to a country’s most basic morals and ideals that benefit the entire populace, not just a
-select few, because “injustice anywhere is a threat to justice everywhere” (King, 1963).
+For the entirety of my childhood, I have considered myself a die-hard patriot. I stood up for the pledge of allegiance every morning, and recited every word in it with unwavering and iron-clad conviction. I begged to raise the flag at school every morning, despite the physical challenge posed by my short stature. I knew I wanted to serve my country because service, to me, is the supreme act of duty. This philosophy that I embraced in my life is probably due to my
+Sikh faith – a religion that emphasizes serving others and treating everyone equally. Sikhism embodies all the values that make me a patriot, but paradoxically, my identification with the religion has also made me question the very underpinnings of patriotism. After 9/11, a time of surging nationalism, many exploited faux patriotism to justify hate crimes against innocent immigrants, including Sikh Americans who they erroneously believed were Muslim terrorists.
+Ironically, it was during this time when, according to polls, people “felt most proud of their country” (Griggs) that I began to negatively perceive the world around me. As I grew older, I saw a close family friend, who was labeled a terrorist for simply wearing a turban, land in hospital from injuries sustained in a “patriotic” attack. I saw a headline on CNN about a shooter targeting people of my faith – people he deemed as dangerous – in our place of worship. It became increasingly difficult to feel an unwavering love for my country when my country did not return my love. Sadly, this bitter experience of unrequited love resulted from a warped interpretation of patriotism by some. An interpretation, that in the past decade or so, has been twisted and abused to justify hate and spread fear. However, anyone who truly loves this great nation should not allow patriotism to be defined by this perverted understanding. Patriotism is
+devotion to a country’s most basic morals and ideals that benefit the entire populace, not just a select few, because “injustice anywhere is a threat to justice everywhere” (King, 1963). Patriotism is a concept that goes beyond the well known superficial love and fancy parades. It is a vigilant devotion to a country, used to unite people, rather than to divide them. Failure to stand up to injustice anywhere, and in any form, is a betrayal of one’s country and the ideals upon
+which it was founded. 
 
-Karina Vasudeva – Best 3
-Patriotism is a concept that goes beyond the well known superficial love and fancy parades. It is
-a vigilant devotion to a country, used to unite people, rather than to divide them. Failure to stand
-up to injustice anywhere, and in any form, is a betrayal of one’s country and the ideals upon
-which it was founded.
-The word “patriot” itself has been dragged through the mud and “used to justify rigid
-sensibilities of who to love and who to hate” (The Guardian). The people who now claim the
-word tend to misuse it to rationalize hate, and this rhetoric of so-called patriots “is simply gross,
-ugly, xenophobic isolationism. They really do sound like fascists, and in fact display a lot of
-characteristics of earlier fascist states”. Nationalistic fervor and jingoistic chest thumping easily
-passes off as patriotism nowadays, but such ideology will only drag America down with it. In
-this Trumpian era, ideals associated with patriotism have become victim of alternate reality and
-fallen out of step with common sense or reality. While President Trump states that Americans
-collectively “know what kind of a nation America must always be,” (Trump) hate crimes and
-injustice not only remain recurrent phenomena, but also serve as daily reminders as to how
-wrong he and some of his ardent followers are. We do not all agree on what we want; in fact, the
-chasm of disagreement in our society seem to be deepening every day. While some pray for
-peace and unity, others thrive on violence and hatred. It feels as though we ought to “relinquish
-our sense of justice for a false sense of national pride,” (Vanden Heuvel) as so many others have.
-“However, nationalism should not be confused with patriotism”. If we lose the tenacity to fight
-oppression, we lose any idea of patriotism we have left because “the true patriotism, the only
-rational patriotism, is loyalty to the nation all the time, loyalty to the government when it
-deserves it” (Twain). I do not want to serve simply because I think America or President Trump
-is always in the right, or because America ought to be held in a limelight at all times. Rather, I
+The word “patriot” itself has been dragged through the mud and “used to justify rigid sensibilities of who to love and who to hate” (The Guardian). The people who now claim the word tend to misuse it to rationalize hate, and this rhetoric of so-called patriots “is simply gross, ugly, xenophobic isolationism. They really do sound like fascists, and in fact display a lot of characteristics of earlier fascist states”. Nationalistic fervor and jingoistic chest thumping easily passes off as patriotism nowadays, but such ideology will only drag America down with it. In the Trumpian era, ideals associated with patriotism have become victim of alternate reality and fallen out of step with common sense or reality. While President Trump states that Americans collectively “know what kind of a nation America must always be,” (Trump) hate crimes and injustice not only remain recurrent phenomena, but also serve as daily reminders as to how wrong he and some of his ardent followers are. We do not all agree on what we want; in fact, the chasm of disagreement in our society seem to be deepening every day. While some pray for peace and unity, others thrive on violence and hatred. It feels as though we ought to “relinquish our sense of justice for a false sense of national pride,” (Vanden Heuvel) as so many others have. “However, nationalism should not be confused with patriotism”. If we lose the tenacity to fight oppression, we lose any idea of patriotism we have left because “the true patriotism, the only rational patriotism, is loyalty to the nation all the time, loyalty to the government when it deserves it” (Twain). I do not want to serve simply because I think America or President Trump is always in the right, or because America ought to be held in a limelight at all times. Rather, I want to serve to preserve the morals upon which my country was founded – the morals that keep us united. While “patriotism” has recently morphed into a symbol for injustice for many, the principles it symbolizes can still be reclaimed. With some perseverance, it can be transformed again into a true symbol of hope, where “our love of country include[s] love for all Americans”, not just “certain Americans” (Eisenstat).
 
-Karina Vasudeva – Best 4
-want to serve to preserve the morals upon which my country was founded – the morals that keep
-us united. While “patriotism” has recently morphed into a symbol for injustice for many, the
-principles it symbolizes can still be reclaimed. With some perseverance, it can be transformed
-again into a true symbol of hope, where “our love of country include[s] love for all Americans”,
-not just “certain Americans” (Eisenstat).
-Everyone’s fight to preserve America’s morals takes a different approach. Some speak
-out through words, while others let their actions do the talking – sometimes so much louder than
-words. These actions occasionally resist the majority thinking, but they serve an important
-purpose. Even at the risk of being grossly misinterpreted, these actions underscore the true
-characterization of patriots; patriots are those who “invariably disturb the comfortable and
-comfort the disturbed, and are persecuted in their lifetimes even as their accomplishments are
-applauded after their deaths” (Vanden Heuvel). Dr. Martin Luther King Jr. was one such patriot,
-whose activism got him placed on the FBI Watchlist due to the perceived threat he posed. God
-forbid that a powerful, yet peaceful leader would defend the oppressed lawfully and peacefully!
-Still, he is now remembered as a personification of patriotism. And behold, history seems to
-repeating itself yet again. The public response to Colin Kaepernick’s kneeling during the national
-anthem appears to be quite similar to the one when Dr. King stood up against injustice. Is
-Kaepernick’s action the most tactful method of protest? No. Did it step on many people’s toes?
-Yes. However, regardless of one’s personal belief, it has got people talking about the issue of
-racial injustice. Kaepernick sacrificed his career to speak out about a cause afflicting many
-Americans, and that’s what, in its purest form, defines a patriot: someone fighting to preserve the
-rightful moral of their country. Many veterans were offended by his actions, but what they and
+Everyone’s fight to preserve America’s morals takes a different approach. Some speak out through words, while others let their actions do the talking – sometimes so much louder than words. These actions occasionally resist the majority thinking, but they serve an important purpose. Even at the risk of being grossly misinterpreted, these actions underscore the true characterization of patriots; patriots are those who “invariably disturb the comfortable and comfort the disturbed, and are persecuted in their lifetimes even as their accomplishments are applauded after their deaths” (Vanden Heuvel). Dr. Martin Luther King Jr. was one such patriot, whose activism got him placed on the FBI Watchlist due to the perceived threat he posed. God forbid that a powerful, yet peaceful leader would defend the oppressed lawfully and peacefully! Still, he is now remembered as a personification of patriotism. And behold, history seems to repeating itself yet again. The public response to Colin Kaepernick’s kneeling during the national anthem appears to be quite similar to the one when Dr. King stood up against injustice. Is Kaepernick’s action the most tactful method of protest? No. Did it step on many people’s toes? Yes. However, regardless of one’s personal belief, it has got people talking about the issue of racial injustice. Kaepernick sacrificed his career to speak out about a cause afflicting many Americans, and that’s what, in its purest form, defines a patriot: someone fighting to preserve the rightful moral of their country. Many veterans were offended by his actions, but what they and many others fail to see is the common ground they both occupy. They have both sacrificed so much for the greater good of society and the nation.
 
-Karina Vasudeva – Best 5
-many others fail to see is the common ground they both occupy. They have both sacrificed so
-much for the greater good of society and the nation.
-I do not expect my unrequited love to find a happy ending anytime soon. I know there
-will always be someone who is looking to spread fear, corrupting the ideals underlying the
-pristine ideals of patriotism. There will always be someone who does not want me in this country
-for reasons out of my control. Yet, I know I will always stand up against hate and injustice meted
-out to anyone as an expression of my love for my country, and that one thing I do not foresee
-changing anytime soon. This country has given me the opportunity to begin a new legacy for my
-family. It has granted me a sense of belonging to community every day, even if some days it
-does not quite feel like it. It gives me a reason to continue serving others and find a bridge
-between my identity and my country that sometimes seems so unbearably at odds. Until my last
-breath, I shall remain an American patriot. Albeit, an unconventional one.
-
-Karina Vasudeva – Best 6
+I do not expect my unrequited love to find a happy ending anytime soon. I know there will always be someone who is looking to spread fear, corrupting the ideals underlying the pristine ideals of patriotism. There will always be someone who does not want me in this country for reasons out of my control. Yet, I know I will always stand up against hate and injustice meted out to anyone as an expression of my love for my country, and that one thing I do not foresee changing anytime soon. This country has given me the opportunity to begin a new legacy for my family. It has granted me a sense of belonging to community every day, even if some days it does not quite feel like it. It gives me a reason to continue serving others and find a bridge between my identity and my country that sometimes seems so unbearably at odds. Until my last breath, I shall remain an American patriot. Albeit, an unconventional one.
 
 Works Cited
-
+----
 Eisenstat, Yael. “Reclaiming Patriotism In Trump's America.” The Huffington Post,
-
 TheHuffingtonPost.com, 13 Apr. 2017. www.huffingtonpost.com/entry/reclaiming-
 patriotism-in-trumps-america_us_58ef6f6ee4b0bb9638e1b5a4.
-
 Griggs, Brandon. “Of Course, a Divided America Can't Agree on the Definition of Patriotism.”
-
 CNN, Cable News Network, 8 Nov. 2017. www.cnn.com/2017/09/30/us/what-defines-
 patriotism-trnd/index.html.
-
 Heuvel Vanden, Katrina. “What It Means to Be a Patriot in the Trump Era.” The Nation, 3 July
 2017, www.thenation.com/article/what-it-means-to-be-a-patriot-in-the-trump-era/.
 “'Helping Your Country Do Better': What Patriotism Means in 2016.” The Guardian, Guardian
-
 News and Media, 26 July 2016. www.theguardian.com/us-news/2016/jul/26/what-does-
 patriotism-mean-to-you.
-
 King, Dr. Martin Luther, Jr. “Letter from Birmingham Jail.” Atlanta, GA. 16 April 1963.
 Trump, Donald. Speech to the UN General Assembly (closing remarks). 25 September 2018.
 Twain, Mark. “The Czar’s Soliloquy.” North American Review. March, 1905.
