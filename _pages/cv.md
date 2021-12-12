@@ -79,8 +79,11 @@ Skills
 Awards
 ======
 **2021** North Carolina Fellows Program 
+
 **2020** Morehead-Cain Scholar; Coca-Cola Scholar; President’s Volunteer Service Award; Carson Scholars Award for Academic Excellence and Strong Humanitarian Qualities; Prudential Spirit of Community Maryland Distinguished Finalist Award; Dr. Martin Luther King Jr. Award; Kathy Kirk Memorial Scholarship; Meritorious Service Certificate of Merit; 2020 Bethesda Magazine Extraordinary Teen Award 
+
 **2019** President’s Volunteer Service Award, Superior Writing Award; National Council of Teachers of English (NCTE); Carson Scholars Award for Academic Excellence and Strong Humanitarian Qualities; Bryn Mawr College President’s Book Club Award; National Merit Scholarship Program Letter of Commendation 
+
 **2018** Dale Carnegie Award for Highest Achievement in Leadership Skills; Dale Carnegie Outstanding Performance Award; Dale Carnegie Youth Leadership Program Coach 
   
 Projects
