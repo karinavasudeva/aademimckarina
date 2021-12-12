@@ -5,9 +5,9 @@ main:
     url: /cv/
     
   - title: "Writing"
-    url: /writing/
+    url: /year-archive/
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
 
