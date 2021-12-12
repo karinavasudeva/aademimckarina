@@ -1,6 +1,6 @@
 ---
 title: "Patent #10470920B1"
-excerpt: "Backflow preventing menstrual cup>"
+excerpt: "Backflow preventing menstrual cup"
 collection: portfolio
 ---
 
