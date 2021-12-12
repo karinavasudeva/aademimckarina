@@ -15,3 +15,9 @@ Her public health research interests include health policy, effective use of res
 Karina is a self-proclaimed bookworm, activist, and inventor.
 
 Feel free to reach out by emailing karinav@unc.edu
+
+Currently Reading
+------
+* [Why Fish Don't Exist by Lulu Miller](https://www.goodreads.com/en/book/show/50887097)
+* [The City We Became by N.K. Jemisin](https://www.goodreads.com/en/book/show/42074525)
+* [How to Teach Quantum Physics to Your Dog by Chad Orzel](https://www.goodreads.com/book/show/8243716-how-to-teach-quantum-physics-to-your-dog)
