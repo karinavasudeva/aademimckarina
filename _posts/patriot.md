@@ -20,17 +20,11 @@ I do not expect my unrequited love to find a happy ending anytime soon. I know t
 
 Works Cited
 ----
-Eisenstat, Yael. “Reclaiming Patriotism In Trump's America.” The Huffington Post,
-TheHuffingtonPost.com, 13 Apr. 2017. www.huffingtonpost.com/entry/reclaiming-
-patriotism-in-trumps-america_us_58ef6f6ee4b0bb9638e1b5a4.
-Griggs, Brandon. “Of Course, a Divided America Can't Agree on the Definition of Patriotism.”
-CNN, Cable News Network, 8 Nov. 2017. www.cnn.com/2017/09/30/us/what-defines-
-patriotism-trnd/index.html.
-Heuvel Vanden, Katrina. “What It Means to Be a Patriot in the Trump Era.” The Nation, 3 July
-2017, www.thenation.com/article/what-it-means-to-be-a-patriot-in-the-trump-era/.
-“'Helping Your Country Do Better': What Patriotism Means in 2016.” The Guardian, Guardian
-News and Media, 26 July 2016. www.theguardian.com/us-news/2016/jul/26/what-does-
-patriotism-mean-to-you.
-King, Dr. Martin Luther, Jr. “Letter from Birmingham Jail.” Atlanta, GA. 16 April 1963.
-Trump, Donald. Speech to the UN General Assembly (closing remarks). 25 September 2018.
+Eisenstat, Yael. “Reclaiming Patriotism In Trump's America.” The Huffington Post,\
+TheHuffingtonPost.com, 13 Apr. 2017. www.huffingtonpost.com/entry/reclaiming-patriotism-in-trumps-america_us_58ef6f6ee4b0bb9638e1b5a4.\
+Griggs, Brandon. “Of Course, a Divided America Can't Agree on the Definition of Patriotism.” CNN, Cable News Network, 8 Nov. 2017. www.cnn.com/2017/09/30/us/what-defines-patriotism-trnd/index.html.\
+Heuvel Vanden, Katrina. “What It Means to Be a Patriot in the Trump Era.” The Nation, 3 July 2017, www.thenation.com/article/what-it-means-to-be-a-patriot-in-the-trump-era/.\
+“'Helping Your Country Do Better': What Patriotism Means in 2016.” The Guardian, Guardian News and Media, 26 July 2016. www.theguardian.com/us-news/2016/jul/26/what-does- patriotism-mean-to-you.\
+King, Dr. Martin Luther, Jr. “Letter from Birmingham Jail.” Atlanta, GA. 16 April 1963.\
+Trump, Donald. Speech to the UN General Assembly (closing remarks). 25 September 2018.\
 Twain, Mark. “The Czar’s Soliloquy.” North American Review. March, 1905.
