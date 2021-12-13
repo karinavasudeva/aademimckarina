@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<meta name="google-site-verification" content="vblVqd9lexoORPxugSapzSnkm4Yftqo2j-J3eiXN6tQ" />
+
 ---
 
 Karina Vasudeva is a second-year Morehead-Cain scholar at UNC Chapel Hill dedicated to community service and devising sustainable, creative solutions for real-world problems that afflict our community. Karina is currently pursuing a B.A. in English & Comparative Literature and (hopefully) a B.S.P.H. in Health Policy & Management at the Gillings School of Public Health. She is independently studying epigenetics and immunology. 
@@ -22,4 +24,4 @@ Currently Reading
 * [The City We Became by N.K. Jemisin](https://www.goodreads.com/en/book/show/42074525)
 * [How to Teach Quantum Physics to Your Dog by Chad Orzel](https://www.goodreads.com/book/show/8243716-how-to-teach-quantum-physics-to-your-dog)
 
-<meta name="google-site-verification" content="vblVqd9lexoORPxugSapzSnkm4Yftqo2j-J3eiXN6tQ" />
+
