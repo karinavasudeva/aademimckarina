@@ -4,7 +4,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+### The Relationship Between the Gut Microbiome, Epigenetics, and Crohn's Disease: A Literature Review
+----
+As a personal educational project, I wrote a basic literature review is to explore the relationship between the gut microbiome, epigenetics, and Crohn's disease. The knowledge that has existed in the field of gastroenterology, especially in the realm of Crohn's disease, has been based on the idea that epigenetics and the gut microbiome are critical factors in the onset of Crohn's disease. How these factors influence/cause Crohn’s is the source of debate within the community. This review summarizes what is known about the relationships between the gut microbiome, rpigenetics, and Crohn's Disease.
+
+[Crohn'sLitReview.pdf](https://github.com/karinavasudeva/karinavasudeva.github.io/files/7706155/Crohn.sLitReview.pdf)
+
 ### Policy Brief: An Inquiry Into an N.C. Department of Housing & Community Development and New Legislative Approaches
+----
 As a Government Research Fellow for the NC Office of Recovery & Resiliency (NCORR), I spent last summer collaborating with a team of 4 students on an independently-directed research project evaluating whether North Carolina needs a Department of Housing. We conducted 29 qualitative interviews with housing stakeholders and local government officials to identify needs and whitespaces and then crafted recommendations for Gov. Cooper's office regarding future housing policies. I became more aware of the impacts policy can have especially in a public health crisis like Covid-19. 
 
 [The Future of North Carolina Housing Policy Final Report.pdf](https://github.com/karinavasudeva/karinavasudeva.github.io/files/7706049/The.Future.of.North.Carolina.Housing.Policy.Final.Report.pdf)
