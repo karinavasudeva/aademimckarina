@@ -1,4 +1,11 @@
+---
+title: 'Cycles of Suffering in Frankenstein'
+date: 2021-12-10
+permalink: /writing/frankenstein
 
+---
+###### This is an essay I wrote for my "English 268: Medical Humanities" class exploring the cyclical nature of suffering and distress in the novel ***Frankenstein***.
+----
 
 In 1815, at the age of 17, Mary Shelley gave birth to her daughter. She had unlocked the beauty of creation, only to have it snatched away from her two weeks later when her daughter passed away. Shelley had created, birthed, and lost her child all in the mere matter of weeks. She endured immense suffering through this experience, having been forced to directly confront the immense agony of loss so shortly after experiencing the joy of life. Frankenstein is the offspring of this pain and suffering. As a result, the novel explores the common theme of distress, an emotion that is seemingly inevitable in every human life. No different than the suffering humans of our world, Shelley’s characters become a part of the inevitability of suffering in Frankenstein. This cycle highlights the humanity of all characters, especially the Creature, who is perceived as evil and inhuman by most characters in the novel. 
 
