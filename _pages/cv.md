@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-Education
-======
+### Education ###
+---
 * B.A. in English & Comparative Literature, The University of North Carolina at Chapel Hill, 2024 (expected)
 
-On-campus Experience
-======
-* **Campus Y (Center for Social Justice)**
-  * ***Co-Director of Communications***
+### On-campus Experience ###
+---
+* **Campus Y (Center for Social Justice)**                                                             
+  * ***Co-Director of Communications*** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; (*April 2021-present*)
     * Creating a more accessible social justice space for students at UNC to engage with various topics including racial equity and justice, disability  rights, LGBTQ+ rights, etc. 
    
 
 * **The Chapel Hill Alt Protein Project**
-  * ***Co-President***
+  * ***Co-President*** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (*April 2021-present*)
      * Building an alt protein ecosystem in the Research Triangle Area through the NC Biotech Center
      * Established one of the world's first courses on cellular agriculture at UNC-Chapel Hill 
      * Founded an international Good Food Institute Alt Protein Fellowship that hosted students from over 25+ universities
@@ -46,8 +46,8 @@ On-campus Experience
      * Leading a fellowship about effective giving
      * Garnered six 1% of lifetime income pledges to effective charities
 
-Work Experience
-======
+### Work Experience ###
+---
 * **NC Office of Recovery & Resiliency (NCORR)**
   * ***Government Research Fellow***
      * Collaborated with a team of 4 students on an independently-directed research project evaluating whether North Carolina needs a Department of Housing
@@ -67,8 +67,8 @@ Work Experience
      * Invented and self-prosecuted a patent (US Patent #10470920B1) for a novel backflow preventing menstrual cup 
      * Inventing a low-cost, effective water filtration intervention
 
-Skills
-======
+### Skills ###
+---
 * Beginner R
 * Beginner Stata
 * Literature Reviews
@@ -77,8 +77,8 @@ Skills
 * Beginner Portugese
 * Design-Thinking
 
-Awards
-======
+### Awards & Honors ###
+---
 **2021** North Carolina Fellows Program 
 
 **2020** Morehead-Cain Scholar; Coca-Cola Scholar; President’s Volunteer Service Award; Carson Scholars Award for Academic Excellence and Strong Humanitarian Qualities; Prudential Spirit of Community Maryland Distinguished Finalist Award; Dr. Martin Luther King Jr. Award; Kathy Kirk Memorial Scholarship; Meritorious Service Certificate of Merit; 2020 Bethesda Magazine Extraordinary Teen Award 
@@ -87,8 +87,8 @@ Awards
 
 **2018** Dale Carnegie Award for Highest Achievement in Leadership Skills; Dale Carnegie Outstanding Performance Award; Dale Carnegie Youth Leadership Program Coach 
   
-Projects
-======
+### Projects ###
+---
 **Backflow preventing menstrual cup — US Patent #10470920B1**
 Invented a backflow and leakage-preventing menstrual cup for collecting menstrual discharge. The menstrual cup has a safety feature that prevents the backflow of menstrual blood back into the vagina and uterus, which minimizes contact with the collected menstrual blood and prevents the risk of infection and toxic shock syndrome (TSS) to the user. This safety feature also stops accidental leakage during use and prevents spillage of menstrual blood when the cup is removed by the user. The cup is designed to be easily and quickly emptied. Self prosecuted the patent application.
 
