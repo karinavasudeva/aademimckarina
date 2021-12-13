@@ -99,7 +99,7 @@ Research
 * Literature Reviews
 * Qualitative Interviews
 * Design-Thinking
-* Prototpying
+* Prototyping
 
 Foreign Languages
 * Beginner Chinese
