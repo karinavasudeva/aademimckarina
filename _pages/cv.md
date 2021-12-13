@@ -89,16 +89,17 @@ Created a dye-based photovoltaic cell using blackberries to develop an inexpensi
 
 ### Skills ###
 ---
-###### Coding
+Coding
 * Beginner R
 * Beginner Stata
 * Beginner Python
-###### Research
+
+Research
 * Literature Reviews
 * Qualitative Interviews
 * Design-Thinking
 * Prototpying
-###### Foreign Languages
+
+Foreign Languages
 * Beginner Chinese
 * Beginner Portugese
-
