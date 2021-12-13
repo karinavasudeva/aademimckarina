@@ -1,7 +1,7 @@
 ---
 title: 'Embrace'
 date: 2021-12-10
-permalink: /posts/2021/12/
+permalink: /writing/2021/12/
 
 ---
 Embrace
