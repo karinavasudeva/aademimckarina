@@ -16,8 +16,8 @@ redirect_from:
 
 ### On-campus Experience ###
 ---
-* **Campus Y (Center for Social Justice)**                                                             
-  * ***Co-Director of Communications***  `April 2021-present` ```Chapel Hill, NC```
+* **Campus Y (Center for Social Justice)** ```Chapel Hill, NC```                                                        
+  * ***Co-Director of Communications***  `April 2021-present` 
     * Creating a more accessible social justice space for students at UNC to engage with various topics including racial equity and justice, disability  rights, LGBTQ+ rights, etc. 
    
 
