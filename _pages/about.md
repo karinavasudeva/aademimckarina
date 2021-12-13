@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<meta name="google-site-verification" content="vblVqd9lexoORPxugSapzSnkm4Yftqo2j-J3eiXN6tQ" />
 
 ---
 
