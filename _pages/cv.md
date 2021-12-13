@@ -93,6 +93,7 @@ Coding
 * Beginner R
 * Beginner Stata
 * Beginner Python
+* Beginner Markdown/HTML/CSS
 
 Research
 * Literature Reviews
