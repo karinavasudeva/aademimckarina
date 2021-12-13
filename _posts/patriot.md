@@ -1,7 +1,7 @@
 ---
 title: 'An Unconventional Patriot '
 date: 2021-12-12
-permalink: /posts/2021/12/
+permalink: /writing/2021/12/12
 
 ---
 
