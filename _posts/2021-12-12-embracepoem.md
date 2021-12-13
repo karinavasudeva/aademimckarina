@@ -4,9 +4,8 @@ date: 2021-12-10
 permalink: /writing/2021/12/
 
 ---
-Embrace
-------
 
+This is a poem I wrote about the passing of my uncle.
 
 When I was a child,\
   my grandmother took me to the beach;\
