@@ -5,8 +5,8 @@ permalink: /writing/2021/12/
 
 ---
 
-This is a poem I wrote about the passing of my uncle.
-
+###### This is a poem I wrote about the passing of my uncle.
+----
 When I was a child,\
   my grandmother took me to the beach;\
     where the ocean gently beckoned me,\
