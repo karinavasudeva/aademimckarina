@@ -17,8 +17,9 @@ redirect_from:
 ### On-campus Experience ###
 ---
 * **Campus Y (Center for Social Justice)** ```Chapel Hill, NC```                                                        
-  * ***Co-Director of Communications*** `April 2021-present` 
-    * Creating a more accessible social justice space for students at UNC to engage with various topics including racial equity and justice, disability  rights, LGBTQ+ rights, etc. 
+  * ***Executive Board Member*** `April 2021-present` 
+    * Creating a more accessible social justice space for students at UNC to engage with various topics including racial equity and justice,    disability  rights, LGBTQ+ rights, etc. 
+    * Spearheading mutual aid efforts such as a food pantry, funds for students in need, etc.
    
 
 * **The Chapel Hill Alt Protein Project** ```Chapel Hill, NC```
@@ -34,22 +35,43 @@ redirect_from:
      * Facilitating partnerships with other student organizations, hosting speaker events, and spearheading an undergraduate community bioethics research initiative 
 
 * **Community Empowerment Fund** ```Chapel Hill, NC```
+  * ***Pod Leader*** `Jan 2022-present` 
+     * Work as part of the Member Advocate Coordination (MAC) team to provide the highest level of service to our members 
+     * Coordinate care for members in their pod and assist in the management of volunteer advocates in their pod
+     * Create a welcoming and positive office environment, help members access CEF services and programs, connect members to partner agencies and outside resources, check in on member-advocate meetings, support advocates, and help maintain a clean, safe, and organized office
+  * ***Housing Team Member*** `May 2022-present` 
+     * Support all the functions of the Housing Team including supporting Members in their housing searches, helping Members and Advocates in navigating the complex process of securing permanent housing, exploring and expanding on housing-related resources.
   * ***Advocate*** `September 2021-present` 
      * Working directly with community members experiencing homelessness and poverty to achieve whatever goals they bring to us, including searching and applying for jobs, affordable housing, benefits, medical care, legal aid, and educational opportunities 
 
 * **UNC American Mock World Health Organization (AMWHO)** ```Chapel Hill, NC```
-  * ***Conference Charge D’Affairs Internal*** `August 2021-present` 
+  * ***Chapter Co-Director*** `May 2022-present` 
+     * Serve on the AMWHO, Inc. Board of Directors and facilitate, enact, grow, and monitor AMWHO, Inc. chapters and clubs.
+  * ***Conference Charge D’Affairs Internal*** `August 2021-May 2022` 
      * Working directly with community members experiencing homelessness and poverty to achieve whatever goals they bring to us, including searching and applying for jobs, affordable housing, benefits, medical care, legal aid, and educational opportunities 
   * ***Secretary*** `January 2021-May 2021` 
      * Prepared meeting agendas, wrote minutes, managed tasks and organization, and assisted in tasks regarding conference planning
 
 * **UNC One for the World** ```Chapel Hill, NC```
-  * ***President*** `August 2021-present` 
+  * ***President*** `August 2021-May 2022`
      * Leading a fellowship about effective giving
      * Garnered six 1% of lifetime income pledges to effective charities
 
 ### Work Experience ###
 ---
+* **North Carolina Integrated Care for Kids (NC InCK) Model & Bass Connections** ```Raleigh, NC```
+  * ***Research Intern*** `Nov 2020-present` 
+     * Interviewed stakeholders, constructed literature reviews, and developed educational materials about links between housing and health for staff/stakeholders at InCK
+     * Crafted recommendations for NC InCK’s housing endeavors
+     * Conduct qualitative research about the health impacts of housing on child health and wellbeing
+     * Develop housing guidelines for all Integration Consultants to use when serving 90,000 children served by NC InCK 
+
+* **Harvard Medical School** ```Boston, MA```
+  * ***Research Intern*** `June 2020-present` 
+     * Researched, visualized, and created a database about nursing home Covid-19 impact and response news, for advocates and consumers
+     * Coordinate with Partners in Health/Liberia to better understand screening of Covid-19 measures in Maryland County using analysis in Stata, as a part of the Partners In Health (PIH) Cross-site Cohort COVID-19 Research Network
+
+
 * **NC Office of Recovery & Resiliency (NCORR)** ```Raleigh, NC```
   * ***Government Research Fellow*** `June 2021-August 2021` 
      * Collaborated with a team of 4 students on an independently-directed research project evaluating whether North Carolina needs a Department of Housing
