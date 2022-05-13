@@ -12,10 +12,15 @@ redirect_from:
 
 ### Education ###
 ---
-* B.A. in English & Comparative Literature, The University of North Carolina at Chapel Hill, 2024 (expected)
+* B.A. in English & Comparative Literature and B.S.P.H in Health Policy & Management, The University of North Carolina at Chapel Hill, 2024 (expected)
 
 ### On-campus Experience ###
 ---
+
+* **Morehead-Cain Scholarship Fund** ```Chapel Hill, NC```                                                        
+  * ***Class of 2024 Student Director*** `April 2021-present` 
+    * Serving as a the student director of the Morehead-Cain Scholarship Fund Board, guiding and facilitating the growth of the Morehead-Cain Scholarship
+
 * **Campus Y (Center for Social Justice)** ```Chapel Hill, NC```                                                        
   * ***Executive Board Member*** `April 2021-present` 
     * Creating a more accessible social justice space for students at UNC to engage with various topics including racial equity and justice,    disability  rights, LGBTQ+ rights, etc. 
