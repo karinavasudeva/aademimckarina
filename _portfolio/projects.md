@@ -3,6 +3,10 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+### Memory as Literature Course Portfolio
+This website serves as a repository of my extensive journaling and research project, with the intent to explore the organic and meaningful connections between memory and art as they emerge in our own lives.
+
+[Portfolio](https://karinavasudeva.github.io/engl447/)
 
 ### The Relationship Between the Gut Microbiome, Epigenetics, and Crohn's Disease: A Literature Review
 ----
