@@ -12,7 +12,7 @@ redirect_from:
 
 ### Education ###
 ---
-* B.A. in English & Comparative Literature and B.S.P.H in Health Policy & Management, The University of North Carolina at Chapel Hill, 2024 (expected)| GPA: 3.77
+* B.A. in English & Comparative Literature and B.S.P.H in Health Policy & Management, The University of North Carolina at Chapel Hill, 2024 (expected)
 
 ### Work Experience ###
 ---
