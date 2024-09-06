@@ -7,6 +7,27 @@ toc: true
 redirect_from:
   - /resume
 ---
+<style>
+.toc {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    width: 300px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+@media screen and (max-width: 768px) {
+    .toc {
+        position: relative;
+        width: 100%;
+        right: 0;
+        top: 0;
+    }
+}
+</style>
 
 {% include toc %}
 
