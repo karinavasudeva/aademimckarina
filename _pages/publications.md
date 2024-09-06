@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% for post in site.projects %}
+---
+layout: collection
+title: "Publications"
+collection: publications
+permalink: /publications/
+author_profile: true
+---
+
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
