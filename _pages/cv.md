@@ -4,6 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 toc: true
+toc_label: "Table of Contents"
 redirect_from:
   - /resume
 ---
