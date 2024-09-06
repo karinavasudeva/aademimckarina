@@ -1,8 +1,15 @@
 ---
+layout: collection
 title: "Projects"
+collection: projects
 permalink: /projects/
 author_profile: true
 ---
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ### Memory as Literature Course Portfolio
 ----
 This website serves as a repository of my extensive journaling and research project, with the intent to explore the organic and meaningful connections between memory and art as they emerge in our own lives.
